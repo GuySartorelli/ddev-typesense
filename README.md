@@ -5,7 +5,17 @@
 
 ## Installation
 
-`ddev get bserem/ddev-typesense`
+For DDEV v1.23.5 or above run
+
+```sh
+ddev add-on get bserem/ddev-typesense
+```
+
+For earlier versions of DDEV run
+
+```sh
+ddev get bserem/ddev-typesense
+```
 
 This is a work-in-progress for typesense in ddev!
 
